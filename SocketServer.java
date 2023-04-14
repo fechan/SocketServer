@@ -12,7 +12,7 @@ import java.util.concurrent.Executors;
 
 class SocketServer {
 
-    public static final int PORT = 3001; // TODO: make this 17
+    public static final int PORT = 17;
 
     public static void main(String[] args) {
         ExecutorService threadPool = Executors.newCachedThreadPool();
