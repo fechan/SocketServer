@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  server:
+    build: .
+    ports:
+      - "17:17/udp"
+      - "17:17/tcp"
