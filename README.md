@@ -1,6 +1,8 @@
 # SocketServer
 UW Info networking class QOTD server listening on both TCP/UDP port 17. Conforms to RFC 865.
 
+The quotes returned are from *The Princess Bride* and *Ferris Bueller's Day Off*. Which movie's quote the server returns is up to a coin toss. 
+
 ## Requirements
 SocketServer was built and tested on Java 19 on Arch Linux and Oracle Linux (via Docker image).
 
